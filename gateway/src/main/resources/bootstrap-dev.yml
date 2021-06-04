@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        namespace: 4c3697eb-ea9d-4b29-9edf-ae30cca5229c
+        file-extension: yaml
+        server-addr: 62.234.131.125:8848
+        group: BOS
+      discovery:
+        server-addr: 62.234.131.125:8848

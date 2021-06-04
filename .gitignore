@@ -1,0 +1,6 @@
+# Project exclude paths
+/customer/target/
+/customer-facade/target/
+/gateway/target/
+/provider/target/
+/provider-facade/target/
